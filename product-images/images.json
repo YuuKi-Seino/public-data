@@ -1,0 +1,30 @@
+{
+  "makita-mini-chainsaw": [
+    {
+      "imageUrl": "https://m.media-amazon.com/images/I/71mFiSzjbXL._AC_SL1500_.jpg"
+    },
+    {
+      "imageUrl": "https://m.media-amazon.com/images/I/61J3yNDfbkL._AC_SL1080_.jpg"
+    },
+    {
+      "imageUrl": "https://m.media-amazon.com/images/I/61J3yNDfbkL._AC_SL1080_.jpg"
+    },
+    {
+      "imageUrl": "https://m.media-amazon.com/images/I/61J3yNDfbkL._AC_SL1080_.jpg"
+    }
+  ],
+  "recommended-products": [
+    {
+      "imageUrl": "https://images-fe.ssl-images-amazon.com/images/I/71QXFNAGhzL._AC_UL160_SR160,160_.jpg"
+    },
+    {
+      "imageUrl": "https://images-fe.ssl-images-amazon.com/images/I/71WgHWZdbIL._AC_UL160_SR160,160_.jpg"
+    },
+    {
+      "imageUrl": "https://images-fe.ssl-images-amazon.com/images/I/71HAMkaFpIL._AC_UL160_SR160,160_.jpg"
+    },
+    {
+      "imageUrl": "https://images-fe.ssl-images-amazon.com/images/I/61nvU0Lf2WL._AC_UL160_SR160,160_.jpg"
+    }
+  ]
+}
