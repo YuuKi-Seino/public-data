@@ -1,18 +1,14 @@
 [
   {
-    "name": "株式會社高儀",
-    "imageUrl": "https://www.takagi-plc.co.jp/wp-content/themes/takagi/svg/main_logo.svg"
+    "name": "株式会社イトー",
+    "imageUrl": "https://www.world-ito.co.jp/images/logo_ito.gif"
   },
   {
     "name": "株式会社マキタ",
     "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/71/Makita_Logo.svg"
   },
   {
-    "name": "株式会社トップマン",
-    "imageUrl": "https://topman.co.jp/kaisya/common/toppman.gif"
-  },
-  {
-    "name": "株式会社イトー",
-    "imageUrl": "https://www.world-ito.co.jp/images/logo_ito.gif"
+    "name": "ボッシュ株式会社",
+    "imageUrl": "https://raw.githubusercontent.com/YuuKi-Seino/public-data/main/svg/bosh.svg"
   }
 ]
