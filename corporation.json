@@ -18,5 +18,13 @@
   {
     "name": "Black + Decker Inc",
     "imageUrl": "https://raw.githubusercontent.com/YuuKi-Seino/public-data/main/svg/Black+Decker_Logo.svg"
+  },
+  {
+    "name": "リョービ株式会社",
+    "imageUrl": "https://raw.githubusercontent.com/YuuKi-Seino/public-data/main/svg/Ryobi_company_logo.svg"
+  },
+  {
+    "name": "パナソニックホールディングス株式会社",
+    "imageUrl": "https://raw.githubusercontent.com/YuuKi-Seino/public-data/main/svg/Panasonic_logo.svg"
   }
 ]
