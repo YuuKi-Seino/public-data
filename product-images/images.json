@@ -15,16 +15,32 @@
   ],
   "recommended-products": [
     {
-      "imageUrl": "https://images-fe.ssl-images-amazon.com/images/I/71QXFNAGhzL._AC_UL160_SR160,160_.jpg"
+      "imageUrl": "https://images-fe.ssl-images-amazon.com/images/I/71QXFNAGhzL._AC_UL160_SR160,160_.jpg",
+      "brand": "ZNP",
+      "power": "バッテリー式",
+      "weight": "1.6キログラム",
+      "Domensions": "43.5L x 21.5W x 13H cm"
     },
     {
-      "imageUrl": "https://images-fe.ssl-images-amazon.com/images/I/71WgHWZdbIL._AC_UL160_SR160,160_.jpg"
+      "imageUrl": "https://images-fe.ssl-images-amazon.com/images/I/71WgHWZdbIL._AC_UL160_SR160,160_.jpg",
+      "brand": "ZNP",
+      "power": "バッテリー式",
+      "weight": "1.6キログラム",
+      "Domensions": "43.5L x 21.5W x 13H cm"
     },
     {
-      "imageUrl": "https://images-fe.ssl-images-amazon.com/images/I/71HAMkaFpIL._AC_UL160_SR160,160_.jpg"
+      "imageUrl": "https://images-fe.ssl-images-amazon.com/images/I/71HAMkaFpIL._AC_UL160_SR160,160_.jpg",
+      "brand": "ZNP",
+      "power": "バッテリー式",
+      "weight": "1.6キログラム",
+      "Domensions": "43.5L x 21.5W x 13H cm"
     },
     {
-      "imageUrl": "https://images-fe.ssl-images-amazon.com/images/I/61nvU0Lf2WL._AC_UL160_SR160,160_.jpg"
+      "imageUrl": "https://images-fe.ssl-images-amazon.com/images/I/61nvU0Lf2WL._AC_UL160_SR160,160_.jpg",
+      "brand": "ZNP",
+      "power": "バッテリー式",
+      "weight": "1.6キログラム",
+      "Domensions": "43.5L x 21.5W x 13H cm"
     }
   ]
 }
