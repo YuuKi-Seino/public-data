@@ -1,34 +1,78 @@
 [
   {
-    "name": "大工工具",
-    "imageUrl": "https://cdn.nafco-online.com/upload/save_image/n20857363_1.jpg"
+    "name": "工具",
+    "imageUrl": "https://cdn.nafco-online.com/upload/save_image/n22086150_1.jpg"
   },
   {
     "name": "金物",
-    "imageUrl": "https://cdn.nafco-online.com/upload/save_image/n26034041_1.jpg"
+    "imageUrl": "https://cdn.nafco-online.com/upload/save_image/n20910969_1.jpg"
   },
   {
-    "name": "木材",
-    "imageUrl": "https://cdn.nafco-online.com/upload/save_image/n22440105_1.jpg"
+    "name": "木材・建材・資材",
+    "imageUrl": "https://cdn.nafco-online.com/upload/save_image/n24437479_1.jpg"
   },
   {
-    "name": "作業衣料",
-    "imageUrl": "https://cdn.nafco-online.com/upload/save_image/n26301419_1.jpg"
+    "name": "作業衣料・用品・荷造",
+    "imageUrl": "https://cdn.nafco-online.com/upload/save_image/n21681455_1.jpg"
   },
   {
     "name": "カー用品",
     "imageUrl": "https://cdn.nafco-online.com/upload/save_image/n24257862_1.jpg"
   },
   {
+    "name": "園芸・農業資材・植物",
+    "imageUrl": "https://cdn.nafco-online.com/upload/save_image/n21940194_1.jpg"
+  },
+  {
+    "name": "塗料・補修材・壁床材",
+    "imageUrl": "https://cdn.nafco-online.com/upload/save_image/n24932714_1.jpg"
+  },
+  {
     "name": "自転車",
-    "imageUrl": "https://cdn.nafco-online.com/upload/save_image/n23323162_1.jpg"
+    "imageUrl": "https://cdn.nafco-online.com/upload/save_image/n22043955_1.jpg"
   },
   {
     "name": "収納用品",
-    "imageUrl": "https://cdn.nafco-online.com/upload/save_image/n20977344_1.jpg"
+    "imageUrl": "https://cdn.nafco-online.com/upload/save_image/n25131253_1.jpg"
   },
   {
-    "name": "家庭用品",
-    "imageUrl": "https://cdn.nafco-online.com/upload/save_image/n20021672_1.jpg"
+    "name": "家庭用品・日用品",
+    "imageUrl": "https://cdn.nafco-online.com/upload/save_image/n21880117_1.jpg"
+  },
+  {
+    "name": "配管部材・住宅設備",
+    "imageUrl": ""
+  },
+  {
+    "name": "文具・事務用品",
+    "imageUrl": ""
+  },
+  {
+    "name": "家電・照明・電材",
+    "imageUrl": ""
+  },
+  {
+    "name": "石材・ガーデン資材",
+    "imageUrl": ""
+  },
+  {
+    "name": "アウトドア",
+    "imageUrl": ""
+  },
+  {
+    "name": "食品",
+    "imageUrl": ""
+  },
+  {
+    "name": "ヘルス&ビューティー",
+    "imageUrl": ""
+  },
+  {
+    "name": "ペット用品",
+    "imageUrl": ""
+  },
+  {
+    "name": "物置・収納庫",
+    "imageUrl": ""
   }
 ]
