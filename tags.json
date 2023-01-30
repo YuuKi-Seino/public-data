@@ -1,0 +1,35 @@
+[
+    {
+        "name": "チェーンソー",
+        "tagImage": "",
+        "subTags": [
+            {
+                "name": "ハンディチェーンソー"
+            }
+        ]
+    },
+    {
+        "name": "ドライバー",
+        "tagImage": ""
+    },
+    {
+        "name": "ハンマー",
+        "tagImage": ""
+    },
+    {
+        "name": "",
+        "tagImage": ""
+    },
+    {
+        "name": "",
+        "tagImage": ""
+    },
+    {
+        "name": "",
+        "tagImage": ""
+    },
+    {
+        "name": "",
+        "tagImage": ""
+    }
+]
