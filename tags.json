@@ -21,15 +21,27 @@
         "tagImage": ""
     },
     {
-        "name": "",
+        "name": "春",
         "tagImage": ""
     },
     {
-        "name": "",
+        "name": "夏",
         "tagImage": ""
     },
     {
-        "name": "",
+        "name": "秋",
         "tagImage": ""
-    }
+    },
+    {
+        "name": "冬",
+        "tagImage": ""
+    },
+    {
+        "name": "Youtube",
+        "tagImage": ""
+    },
+    {
+        "name": "Twitter",
+        "tagImage": ""
+    },
 ]
